@@ -1,13 +1,13 @@
-package com.practice.unittestingpractice;
+package com.practice.transaction;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class UnitTestingPracticeApplication {
+public class TransactionPracticeApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(UnitTestingPracticeApplication.class, args);
+        SpringApplication.run(TransactionPracticeApplication.class, args);
     }
 
 }

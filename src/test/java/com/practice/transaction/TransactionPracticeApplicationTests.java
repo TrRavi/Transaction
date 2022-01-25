@@ -1,10 +1,11 @@
-package com.practice.unittestingpractice;
+package com.practice.transaction;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class UnitTestingPracticeApplicationTests {
+class TransactionPracticeApplicationTests {
+
 
     @Test
     void contextLoads() {
